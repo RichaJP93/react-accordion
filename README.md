@@ -25,3 +25,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Source files link
+
+https://github.com/john-smilga/react-projects/tree/master/4-accordion
